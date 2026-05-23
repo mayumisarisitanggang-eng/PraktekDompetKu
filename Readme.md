@@ -25,7 +25,7 @@ Aplikasi pencatat keuangan pribadi sederhana berbasis React Native (Expo).
 
 ## 🔗 Link
 
-- **GitHub:** https://github.com/username/PraktekDompetKu
+- **GitHub:** https://github.com/mayumisarisitanggang-eng/PraktekDompetKu.git
 - **Expo Snack:** https://snack.expo.dev/@username/praktekdompetku
 
 ---
