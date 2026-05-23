@@ -34,7 +34,7 @@ Aplikasi pencatat keuangan pribadi sederhana berbasis React Native (Expo).
 
 | Tampilan Awal | Setelah Transaksi |
 |---|---|
-| ![Tampilan Awal](praktikdompetku/assets/awal.png) | ![Setelah Transaksi](praktikdompetku/assets/akhir.pnggit add.) |
+| ![Tampilan Awal](praktikdompetku/assets/awal.png) | ![Setelah Transaksi](praktikdompetku/assets/akhir.png) |
 
 ---
 
